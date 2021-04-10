@@ -19,7 +19,8 @@ from __future__ import division
 from __future__ import print_function
 
 import numpy as np
-import tensorflow as tf
+import tensorflow.v1.compat as tf
+tf.disable_eager_execution()
 
 
 def batch_invert_permutation(permutations):

@@ -1,4 +1,5 @@
-import tensorflow as tf
+import tensorflow.v1.compat as tf
+tf.disable_eager_execution()
 import numpy as np
 import time
 

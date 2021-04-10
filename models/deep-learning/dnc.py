@@ -25,7 +25,8 @@ from __future__ import print_function
 import collections
 import numpy as np
 import sonnet as snt
-import tensorflow as tf
+import tensorflow.v1.compat as tf
+tf.disable_eager_execution()
 
 import access
 
