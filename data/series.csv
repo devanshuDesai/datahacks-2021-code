@@ -1,4 +1,4 @@
-series_id,name,frequency,units,seasonal_adjustment,Description
+﻿series_id,name,frequency,units,seasonal_adjustment,Description
 AAA10Y,Moodys Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,Daily,Percent,Not Seasonally Adjusted,"Series is calculated as the spread between Moody's Seasoned Aaa Corporate Bond© (https://fred.stlouisfed.org/series/DAAA) and 10-Year Treasury Constant Maturity (BC_10YEARM).
 
 ©2017, Moody's Corporation, Moody's Investors Service, Inc., Moody's Analytics, Inc. and/or their licensors and affiliates (collectively, ""Moody's""). All rights reserved. Moody's ratings and other information (""Moody's Information"") are proprietary to Moody's and/or its licensors and are protected by copyright and other intellectual property laws. Moody's Information is licensed to Client by Moody's. MOODY'S INFORMATION MAY NOT BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY'S PRIOR WRITTEN CONSENT.
